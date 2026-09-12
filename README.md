@@ -36,3 +36,20 @@ O sistema permite criar e gerenciar dois tipos de contas bancárias através de 
 ### Pré-requisitos
 - JDK (Java Development Kit) 8 ou superior instalado.
 - Uma IDE Java (IntelliJ IDEA, Eclipse, VS Code) ou terminal configurado.
+
+### Navegue até o diretório do projeto:
+
+cd NOME_DO_REPOSITORIO
+
+### Compile os arquivos Java:
+
+javac -d bin src/org/example/*.java
+
+### Execute a aplicação:
+
+java -cp bin org.example.Main
+
+## 🖥️ Tecnologias Utilizadas
+
+- Linguagem: Java
+- Interface Gráfica: Java Swing (javax.swing.JOptionPane)
